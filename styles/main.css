@@ -1,0 +1,32 @@
+.airwayse {
+  font-size: 76px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: cyan;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.terminal {
+  user-select: none;
+  max-width: 1480px;
+  width: 100%;
+  height: 1000px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 28px;
+  line-height: 1.5;
+  color: rgb(187, 19, 19);
+  background-image: url('/image/bg-airwayse.webp');
+  background-repeat: no-repeat;
+  background-size: 1920px 960px;
+  background-position-x: center;
+  border-radius: 30px 30px;
+  height: auto;
+  padding-bottom: 50px;
+}
